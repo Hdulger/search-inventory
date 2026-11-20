@@ -24,6 +24,7 @@ public class InventorySearch {
         }
         bufWriter.close();
         } catch (IOException e) {
+
             System.out.println("Input or output error");;
         }
     }
